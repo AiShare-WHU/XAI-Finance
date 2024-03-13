@@ -15,7 +15,7 @@
 
 ## Data Source
 
-The data used in the paper is from the Institute of Digital Finance, Peking University and Survey and Research Center for China Household Finance, Southwestern University of Finance and Economics. The data is collected from the "China Household Finance Survey" (CHFS) and the "China Family Panel Studies" (CFPS). The data is used for academic research only and is not allowed to be used for commercial purposes. 
+The data used in the paper is from the Institute of Digital Finance, Peking University and Survey and Research Center for China Household Finance, Southwestern University of Finance and Economics. The data is collected from the "China Household Finance Survey" (CHFS) and the "Digital Financial Inclusion Index" (DFI). The data is used for academic research only and is not allowed to be used for commercial purposes. 
 
 For more information, please visit the website of the Institute of Digital Finance, Peking University (https://idf.pku.edu.cn/) and the Survey and Research Center for China Household Finance, Southwestern University of Finance and Economics (http://chfs.swufe.edu.cn/).
 
